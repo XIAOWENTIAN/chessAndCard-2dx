@@ -10,3 +10,4 @@
 7. [Cocos Creator 德州扑克](https://github.com/tiancityycf/cocos)
 8. [CocosCreator房卡麻将源码-幼麟游戏](http://store.cocos.com/stuff/show/178902.html) 包含了客户端和服务器。
 9. Creator 的牛牛[服务器](https://github.com/cqyuanyou/niuniuNodeJS)[客户端](https://github.com/cqyuanyou/niuniuapp)
+10. [Creator 炸金花](https://github.com/gjh1987/cccGame/)
