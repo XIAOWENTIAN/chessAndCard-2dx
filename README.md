@@ -12,3 +12,4 @@
 9. Creator 的牛牛[服务器](https://github.com/cqyuanyou/niuniuNodeJS)[客户端](https://github.com/cqyuanyou/niuniuapp)
 10. [Creator 炸金花](https://github.com/gjh1987/cccGame/)
 11. [纯 java 棋牌](http://git.oschina.net/beimigame/beimi)
+12. [cocos creator 麻将 weiweimajiang](https://github.com/jimheaven/weiweimajiang)
