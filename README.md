@@ -13,3 +13,6 @@
 10. [Creator 炸金花](https://github.com/gjh1987/cccGame/)
 11. [纯 java 棋牌](http://git.oschina.net/beimigame/beimi)
 12. [cocos creator 微微麻将](https://github.com/jimheaven/weiweimajiang)
+
+
+**重磅**: [幼麟棋牌官方社区版](https://github.com/babykylin/babykylin_scmj)
