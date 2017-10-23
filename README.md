@@ -13,6 +13,7 @@
 10. [Creator 炸金花](https://github.com/gjh1987/cccGame/)
 11. [纯 java 棋牌](http://git.oschina.net/beimigame/beimi)
 12. [cocos creator 微微麻将](https://github.com/jimheaven/weiweimajiang)
+13. [贝密游戏](https://gitee.com/beimigame/beimi)  cocos creator 客户端，贝密游戏是一系列棋牌游戏的名称，其中包含麻将、斗地主、德州，目前正在进行UI设计以及后台系统（JAVA）开发，7月份发布0.1.0版本，仅包含前端UI方案，预计8月份发布首个版本，敬请关注！
 
 
 **重磅**: [幼麟棋牌官方社区版](https://github.com/babykylin/babykylin_scmj)
