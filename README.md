@@ -17,6 +17,7 @@
 14. **房卡麻将棋牌解决方案** [服务器](https://github.com/shuimuliang/qnmahjongserver) [客户端](https://github.com/shuimuliang/qnmahjongclient)
 15. [空空西游](https://github.com/linyouhappy/kongkongxiyou)
 16. [大圣棋牌](https://github.com/ligun123/chess)
+17. [宽立斗地主](https://github.com/ZhouWeikuan/DouDiZhu)
 
 **重磅**: [幼麟棋牌官方社区版](https://github.com/babykylin/babykylin_scmj)
 
