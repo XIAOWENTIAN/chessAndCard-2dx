@@ -16,6 +16,7 @@
 13. [贝密游戏](https://gitee.com/beimigame/beimi)  cocos creator 客户端，贝密游戏是一系列棋牌游戏的名称，其中包含麻将、斗地主、德州，目前正在进行UI设计以及后台系统（JAVA）开发，7月份发布0.1.0版本，仅包含前端UI方案，预计8月份发布首个版本，敬请关注！
 14. **房卡麻将棋牌解决方案** [服务器](https://github.com/shuimuliang/qnmahjongserver) [客户端](https://github.com/shuimuliang/qnmahjongclient)
 15. [空空西游](https://github.com/linyouhappy/kongkongxiyou)
+16. [大圣棋牌](https://github.com/ligun123/chess)
 
 **重磅**: [幼麟棋牌官方社区版](https://github.com/babykylin/babykylin_scmj)
 
