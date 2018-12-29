@@ -24,3 +24,4 @@
 
 # 非棋牌类源代码
 [群侠转 cocos2dx 2.2](https://github.com/ShortTailLab/ph-open)
+[cocos2dx制作的动作游戏](https://github.com/tkzcfc/Kurumi)
