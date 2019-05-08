@@ -20,6 +20,7 @@
 17. [宽立斗地主](https://github.com/ZhouWeikuan/DouDiZhu)
 18. [宽立游戏服务器](https://github.com/ZhouWeikuan/kuanli_server) [宽立游戏客户端](https://github.com/ZhouWeikuan/kuanli_client)
 19. [网狐](https://github.com/shiqwang/netfox)
+20. [黄梅麻将](https://github.com/DFLMJ/huangmeiMaJiang)
 
 **重磅**: [幼麟棋牌官方社区版](https://github.com/babykylin/babykylin_scmj)
 
