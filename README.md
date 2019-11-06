@@ -25,5 +25,6 @@
 **重磅**: [幼麟棋牌官方社区版](https://github.com/babykylin/babykylin_scmj)
 
 # 非棋牌类源代码
-[群侠转 cocos2dx 2.2](https://github.com/ShortTailLab/ph-open)
-[cocos2dx制作的动作游戏](https://github.com/tkzcfc/Kurumi)
+1. [群侠转 cocos2dx 2.2](https://github.com/ShortTailLab/ph-open)
+2. [cocos2dx制作的动作游戏](https://github.com/tkzcfc/Kurumi)
+3. [Squally 商业源码](https://github.com/Squalr/Squally) [STEAM 链接](https://store.steampowered.com/app/770200/Squally/)
