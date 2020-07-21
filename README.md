@@ -12,7 +12,7 @@
 9. Creator 的牛牛[服务器](https://github.com/cqyuanyou/niuniuNodeJS)[客户端](https://github.com/cqyuanyou/niuniuapp)
 10. [Creator 炸金花](https://github.com/gjh1987/cccGame/)
 11. [纯 java 棋牌](http://git.oschina.net/beimigame/beimi)
-12. [cocos creator 微微麻将](https://github.com/jimheaven/weiweimajiang)
+12. [cocos creator 微微麻将](https://github.com/jimheaven/weiweimajiang) - 已小黑屋
 13. [贝密游戏](https://gitee.com/beimigame/beimi)  cocos creator 客户端，贝密游戏是一系列棋牌游戏的名称，其中包含麻将、斗地主、德州，目前正在进行UI设计以及后台系统（JAVA）开发，7月份发布0.1.0版本，仅包含前端UI方案，预计8月份发布首个版本，敬请关注！
 14. **房卡麻将棋牌解决方案** [服务器](https://github.com/shuimuliang/qnmahjongserver) [客户端](https://github.com/shuimuliang/qnmahjongclient)
 15. [空空西游](https://github.com/linyouhappy/kongkongxiyou)
@@ -23,7 +23,7 @@
 20. [黄梅麻将](https://github.com/DFLMJ/huangmeiMaJiang)
 21. [球球大作战](https://github.com/YKPublicGame/ball) 
 
-**重磅**: [幼麟棋牌官方社区版](https://github.com/babykylin/babykylin_scmj)
+**重磅**: [幼麟棋牌官方社区版](https://github.com/babykylin/babykylin_scmj) - 已小黑屋
 
 # 非棋牌类源代码
 1. [群侠转 cocos2dx 2.2](https://github.com/ShortTailLab/ph-open)
